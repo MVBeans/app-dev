@@ -1,7 +1,7 @@
-# app-dev TP!
-## **WELCOME TO MY TOP 5 FAVORITE SERIES AND MOVIES!**
+# app-dev TP - Group 11 De Mesa, Clacio, Paner, Salazar!
+## **WELCOME TO OUR TOP 5 FAVORITE SERIES AND MOVIES!**
 ------------------------------------------------------
-For the category of my best series list we have:
+For the category of best series list we have:
 1. **Scott Pilgrim: Takes off!** 👦🎮
 2. **The Boys** 🦸💥
 3. **Hotel de Luna** 👫🏨❤️
